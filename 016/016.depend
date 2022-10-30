@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622915607 source:e:\d\codeblocks\projecteuler\016\main.cpp
+	<iostream>
+	<windows.h>
+
